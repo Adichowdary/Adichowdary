@@ -22,7 +22,7 @@
 
 </div>
 
-## 🛡️ Focus & Engineering Domains
+## 🛡️ Engineering Domains & Core Focus
 
 - 🔐 **Cybersecurity & Digital Forensics:** Zero-trust architecture, cryptographic hashing (SHA-256, Merkle Trees), BSA 2023 §63B digital evidence integrity, anti-spoofing geofencing, and RBAC/ABAC access control.
 - ⚡ **Full-Stack & Cloud Systems:** Modern multi-tier cloud applications built with Next.js 16 (App Router), React 19, TypeScript, and microservice backends (Python FastAPI & Java Spring Boot).
@@ -30,10 +30,10 @@
 
 ---
 
-## 🏛️ Featured Projects
+## 🌟 Featured Flagship Projects
 
-### 🌟 [NIRNAY (नियन्त्रण) — Smart Inspection & Geo-Surveillance](https://github.com/Adichowdary/Nirnay)
-> **Ministry of Social Justice & Empowerment (DoSJE) | Smart India Hackathon (SIH)**  
+### 1. 🏛️ [NIRNAY (नियन्त्रण) — Smart Inspection & Geo-Surveillance](https://github.com/Adichowdary/Nirnay)
+> **Ministry of Social Justice & Empowerment (DoSJE) | Smart India Hackathon (SIH 2025)**  
 > *AI-Powered Inspection, Yield Audit & Networked Telemetry Platform for Welfare Facilities*
 
 - **Edge-AI Biometrics:** On-device MediaPipe 468 3D facial landmark mesh via WebAssembly (WASM) for instant offline 1:1 verification.
@@ -42,7 +42,17 @@
 
 <br/>
 
-### ⚡ [TaxShield AI — Smart Bill & Tax Intelligence Platform](https://github.com/Adichowdary/taxshield-ai)
+### 2. 📱 [EGRAM — Next-Gen Real-Time Social & Campus Ecosystem](https://github.com/Adichowdary/Egram)
+> **Modern Real-Time Community, Campus & Social Collaboration Platform**  
+> *Ephemeral Stories, Encrypted Messaging, Interactive Feed & Study Meet Hub*
+
+- **Real-Time Communication:** Low-latency bi-directional messaging with live typing, screenshot protection hooks, and presence status.
+- **Engagement & Stories:** Ephemeral 24-hour stories with custom in-browser viewer, daily activity streaks, and community circles (`/circles`).
+- **Full-Stack Stack:** Built on **Next.js 16.2 (Turbopack), React 19, Supabase RLS, Firebase, MongoDB (Mongoose 9), and Framer Motion 12**.
+
+<br/>
+
+### 3. ⚡ [TaxShield AI — Smart Bill & Tax Intelligence Platform](https://github.com/Adichowdary/taxshield-ai)
 > **Automated Tax Optimization & Real-Time GST Intelligence** • [🌐 Live Website](https://taxshield-ai-zeta.vercel.app)
 
 - **AI Document Scanner:** Automated invoice/receipt OCR data extraction powered by **Gemini AI**.
@@ -61,14 +71,14 @@
 | **Frontend** | `Next.js 16`, `React 19`, `Tailwind CSS v4`, `Radix UI`, `Framer Motion`, `MapLibre GL` |
 | **Backend & APIs** | `Node.js`, `Express.js`, `FastAPI (Python)`, `Spring Boot 3 (Java)`, `WebRTC`, `RESTful APIs` |
 | **Security & Forensics** | `Zero-Trust Architecture`, `SHA-256 / Merkle Trees`, `BSA 2023 §63B`, `RBAC & ABAC`, `JWT & Auth` |
-| **Databases & DevOps** | `PostgreSQL`, `Supabase`, `MongoDB`, `Redis`, `Docker`, `Git / GitHub`, `Vercel` |
+| **Databases & DevOps** | `PostgreSQL`, `Supabase`, `MongoDB`, `Redis`, `Firebase`, `Docker`, `Git / GitHub`, `Vercel` |
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,java,react,nextjs,tailwind,nodejs,express,fastapi,spring,postgres,supabase,mongodb,docker,git,linux" alt="Tech Skills" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,react,nextjs,tailwind,nodejs,express,fastapi,spring,postgres,supabase,mongodb,firebase,docker,git,linux" alt="Tech Skills" />
 </div>
 
 ---
