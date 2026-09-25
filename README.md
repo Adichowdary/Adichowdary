@@ -9,7 +9,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jashti-adi-naga-venkata-raghava-558391385)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.username__.error_720?stkn=ODdydW41NDE4ODFh)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adichowdary720@gmail.com)
-[![TaxShield Demo](https://img.shields.io/badge/TaxShield%20AI-Live%20Demo-2ea44f?style=for-the-badge&logo=vercel&logoColor=white)](https://taxshield-ai-zeta.vercel.app)
+
+<br/>
+
+[![NIRNAY Live](https://img.shields.io/badge/🏛️_NIRNAY-Live_Platform-FF9933?style=for-the-badge&logo=vercel&logoColor=white)](https://nirnay-seven.vercel.app/login)
+[![EGRAM Live](https://img.shields.io/badge/📱_EGRAM-Live_App-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://egram-project.vercel.app/)
+[![TaxShield Live](https://img.shields.io/badge/⚡_TaxShield_AI-Live_Demo-2ea44f?style=for-the-badge&logo=vercel&logoColor=white)](https://taxshield-ai-zeta.vercel.app)
 
 <br/>
 
@@ -34,8 +39,9 @@
 
 ### 1. 🏛️ [NIRNAY (नियन्त्रण) — Smart Inspection & Geo-Surveillance](https://github.com/Adichowdary/Nirnay)
 > **Ministry of Social Justice & Empowerment (DoSJE) | Smart India Hackathon (SIH 2025)**  
-> *AI-Powered Inspection, Yield Audit & Networked Telemetry Platform for Welfare Facilities*
+> 🌐 **Live Website:** [https://nirnay-seven.vercel.app](https://nirnay-seven.vercel.app/login) &nbsp;|&nbsp; [![Live Demo](https://img.shields.io/badge/Live_Platform-nirnay--seven.vercel.app-FF9933?style=flat-square&logo=vercel&logoColor=white)](https://nirnay-seven.vercel.app/login)
 
+- **AI-Powered Inspection & Regulatory Telemetry:** Real-time monitoring platform for welfare institutions and grantee facilities.
 - **Edge-AI Biometrics:** On-device MediaPipe 468 3D facial landmark mesh via WebAssembly (WASM) for instant offline 1:1 verification.
 - **Forensic Evidence Vault:** Cryptographic Merkle tree hashing & tamper-proof provenance certificates complying with **Bharatiya Sakshya Adhiniyam (BSA) 2023 §63B**.
 - **Polyglot Microservices:** Engineered with **Next.js 16, React 19, Tailwind CSS v4, Supabase (PostgreSQL RLS), Python FastAPI, Java Spring Boot, and WebRTC**.
@@ -44,16 +50,18 @@
 
 ### 2. 📱 [EGRAM — Next-Gen Real-Time Social & Campus Ecosystem](https://github.com/Adichowdary/Egram)
 > **Modern Real-Time Community, Campus & Social Collaboration Platform**  
-> *Ephemeral Stories, Encrypted Messaging, Interactive Feed & Study Meet Hub*
+> 🌐 **Live Website:** [https://egram-project.vercel.app](https://egram-project.vercel.app/) &nbsp;|&nbsp; [![Live Demo](https://img.shields.io/badge/Live_App-egram--project.vercel.app-8B5CF6?style=flat-square&logo=vercel&logoColor=white)](https://egram-project.vercel.app/)
 
 - **Real-Time Communication:** Low-latency bi-directional messaging with live typing, screenshot protection hooks, and presence status.
 - **Engagement & Stories:** Ephemeral 24-hour stories with custom in-browser viewer, daily activity streaks, and community circles (`/circles`).
+- **Virtual Study Hub:** Instant collaborative meetups (`/study`), calendar integration, and verifiable skill certification (`CertificateCard`).
 - **Full-Stack Stack:** Built on **Next.js 16.2 (Turbopack), React 19, Supabase RLS, Firebase, MongoDB (Mongoose 9), and Framer Motion 12**.
 
 <br/>
 
 ### 3. ⚡ [TaxShield AI — Smart Bill & Tax Intelligence Platform](https://github.com/Adichowdary/taxshield-ai)
-> **Automated Tax Optimization & Real-Time GST Intelligence** • [🌐 Live Website](https://taxshield-ai-zeta.vercel.app)
+> **Automated Tax Optimization & Real-Time GST Intelligence**  
+> 🌐 **Live Website:** [https://taxshield-ai-zeta.vercel.app](https://taxshield-ai-zeta.vercel.app) &nbsp;|&nbsp; [![Live Demo](https://img.shields.io/badge/Live_Demo-taxshield--ai--zeta.vercel.app-2ea44f?style=flat-square&logo=vercel&logoColor=white)](https://taxshield-ai-zeta.vercel.app)
 
 - **AI Document Scanner:** Automated invoice/receipt OCR data extraction powered by **Gemini AI**.
 - **Real-Time Analytics:** Interactive tax savings breakdown, GST compliance metrics, and automated expense categorization.
